@@ -6,7 +6,7 @@ Script Purpose:
 	This script creates a new databse naemd 'Data_Warehouse' after checking if it exists.
 	If the database exists, it is dropped and recreated. Additionally, three schemas (bronze, silver,gold) are created within the database.
 
-WARNING:
+WARNING!
 	Running this script will drop the entire 'Data_Warehouse' database if it exists.
 	All data in the database will be permanently deleted. Proceed with caution and ensure proper data backups before running this script.
 	*/
