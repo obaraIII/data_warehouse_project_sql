@@ -1,6 +1,6 @@
 /*
 ============================================================================
-Create Databse and Schemas
+Create Database and Schemas
 ============================================================================
 Script Purpose:
 	This script creates a new databse naemd 'Data_Warehouse' after checking if it exists.
